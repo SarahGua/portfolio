@@ -1,38 +1,15 @@
-.App {
-  text-align: center;
+body{
+  font-family: "Handjet", sans-serif !important; 
+  background: rgb(38,66,90);
+  background: linear-gradient(25deg, rgba(38,66,90,1) 0%, rgba(225,203,215,0.8267682072829132) 71%);
+  height: 100vh;
+  color: #26425a !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.font-7em{
+  font-size: 7em !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.cl-white{
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
