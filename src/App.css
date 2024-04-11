@@ -13,3 +13,12 @@ body{
 .cl-white{
   color: white;
 }
+
+.mx-20em{
+  margin-left: 20em !important;
+  margin-right: 20em !important;
+}
+
+.mt-8{
+  margin-top: 8em !important;
+}

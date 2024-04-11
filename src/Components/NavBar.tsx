@@ -4,8 +4,8 @@ const NavBar = () => {
     return (
         <>
         <Navbar>
-            <Container>
-                <Nav className="me-auto">
+            <Container className="d-flex justify-content-center">
+                <Nav>
                     <Nav.Link href="#home" className="fs-3">Home</Nav.Link>
                     <Nav.Link href="#features" className="fs-3">About</Nav.Link>
                     <Nav.Link href="#pricing" className="fs-3">Projects</Nav.Link>

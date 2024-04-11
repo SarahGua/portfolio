@@ -4,7 +4,6 @@ import NavBar from "./NavBar"
 const HomeComponent = () => {
     return (
         <>
-            <NavBar />
             <Row className="mt-5">
                 <Col>
                     <i className="bi bi-stars d-flex align-items-end justify-content-end h-100 m-0 fs-1 cl-white"></i>
@@ -18,6 +17,19 @@ const HomeComponent = () => {
                 <Col>
                 <i className="bi bi-stars d-flex align-items-start h-100 m-0 h-100 fs-1 cl-white"></i>
                 </Col>        
+            </Row>
+            <Row className="mx-20em mt-5">
+                <Col>
+                    <p className="m-0 fs-3 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Alias aliquid ducimus delectus amet sint impedit eius, sed voluptas, nesciunt at a. 
+                        Quos laudantium odio magni neque cumque alias dolore! Unde.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Alias aliquid ducimus delectus amet sint impedit eius, sed voluptas, nesciunt at a. 
+                        Quos laudantium odio magni neque cumque alias dolore! Unde.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Alias aliquid ducimus delectus amet sint impedit eius, sed voluptas, nesciunt at a. 
+                        Quos laudantium odio magni neque cumque alias dolore! Unde.</p>
+                </Col>
             </Row>
         </>
     )
