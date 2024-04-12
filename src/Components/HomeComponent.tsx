@@ -1,5 +1,4 @@
 import { Col, Row } from "react-bootstrap"
-import NavBar from "./NavBar"
 
 const HomeComponent = () => {
     return (
@@ -18,7 +17,7 @@ const HomeComponent = () => {
                 <i className="bi bi-stars d-flex align-items-start h-100 m-0 h-100 fs-1 cl-white"></i>
                 </Col>        
             </Row>
-            <Row className="mx-20em mt-5">
+            <Row className="mt-5">
                 <Col>
                     <p className="m-0 fs-3 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                         Alias aliquid ducimus delectus amet sint impedit eius, sed voluptas, nesciunt at a. 

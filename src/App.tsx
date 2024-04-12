@@ -11,7 +11,7 @@ import ContactsComponent from './Components/ContactsComponent';
 function App() {
   return (
     <BrowserRouter>
-      <Container className='h-80vh'>
+      <Container className='d-flex flex-column justify-content-between h-100'>
         <NavBar />
           <Routes>
               <Route path='/' element={<HomeComponent />} />

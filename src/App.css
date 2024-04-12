@@ -1,8 +1,16 @@
+html{
+  height: 100%;
+}
+
+#root{
+  height: 100%;
+}
+
 body{
   font-family: "Handjet", sans-serif !important; 
   background: rgb(38,66,90);
   background: linear-gradient(25deg, rgba(38,66,90,1) 0%, rgba(225,203,215,0.8267682072829132) 71%);
-  height: 100vh;
+  height: 100%;
   color: #26425a !important;
 }
 
@@ -19,6 +27,10 @@ body{
   margin-right: 20em !important;
 }
 
-.mt-8{
-  margin-top: 8em !important;
+.bg-trans{
+  background-color: #00000000;
 }
+
+/* .mt-8{
+  margin-top: 8em !important;
+} */
