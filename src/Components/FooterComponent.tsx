@@ -2,7 +2,7 @@ import { Container, Nav, Navbar } from "react-bootstrap"
 
 const FooterComponent = () => {
     return (
-        <Navbar>
+        <Navbar className="mt-5em">
             <Container className="d-flex justify-content-center">
                 <Nav>
                     <Nav.Link href="https://github.com/SarahGua" className="fs-4">GitHub</Nav.Link>
