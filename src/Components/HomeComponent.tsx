@@ -19,15 +19,18 @@ const HomeComponent = () => {
             </Row>
             <Row className="mt-5">
                 <Col>
-                    <p className="m-0 fs-3 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Alias aliquid ducimus delectus amet sint impedit eius, sed voluptas, nesciunt at a. 
-                        Quos laudantium odio magni neque cumque alias dolore! Unde.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Alias aliquid ducimus delectus amet sint impedit eius, sed voluptas, nesciunt at a. 
-                        Quos laudantium odio magni neque cumque alias dolore! Unde.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Alias aliquid ducimus delectus amet sint impedit eius, sed voluptas, nesciunt at a. 
-                        Quos laudantium odio magni neque cumque alias dolore! Unde.</p>
+                    <p className="m-0 fs-3 text-center">"Welcome to my corner of the web! 
+                    I'm Sarah, a passionate web developer dedicated to crafting immersive 
+                    digital experiences. With a keen eye for detail and a commitment to excellence, 
+                    I specialize in designing and developing user-friendly websites that not only 
+                    look great but also function flawlessly across all devices. From sleek and 
+                    modern designs to robust e-commerce platforms, I thrive on bringing creative 
+                    visions to life through clean, efficient code and innovative solutions. 
+                    Whether you're a small business looking to establish your online presence 
+                    or a larger corporation in need of a website overhaul, I'm here to transform 
+                    your ideas into reality. Take a look around and explore my portfolio to see 
+                    some of my latest projects and discover how I can help elevate your online presence."
+                    </p>
                 </Col>
             </Row>
         </>
