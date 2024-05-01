@@ -4,7 +4,7 @@ import netflix from '../img/netflix.png'
 
 const ProjectComponents = () => {
     return (
-        <Container className="mt-5">
+        <Container className="vh-70 d-flex flex-column align-items-center justify-content-evenly">
             <Carousel>
                 <Carousel.Item className="text-center">
                         <Card className="border-0 bg-trans">
@@ -31,6 +31,7 @@ const ProjectComponents = () => {
                         </Card>
                 </Carousel.Item>
             </Carousel>
+            <p>For other projects visit my GitHube page</p>
         </Container>
     )
 }

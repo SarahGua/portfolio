@@ -5,8 +5,8 @@ const ContactsComponent = () => {
         <Container className="d-flex flex-column align-items-center p-0">
             <Row className="mt-5">
                 <Col className="text-center">
-                    <h1 className="m-0 font-7em">A QUESTION?</h1>
-                    <h1 className="m-0 font-7em">A PROPOSAL?</h1>
+                    <h1 className="m-0 font-7em">A QUESTION? A PROPOSAL?</h1>
+                    {/* <h1 className="m-0 font-7em">A PROPOSAL?</h1> */}
                     <h1 className="m-0 font-7em">CONTACT ME</h1>
                 </Col>
             </Row>

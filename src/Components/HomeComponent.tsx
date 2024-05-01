@@ -10,7 +10,7 @@ const HomeComponent = () => {
                 <Col className="col-6">
                     <div className="d-flex flex-column align-items-center">
                         <h1 className="font-7em">Hi. I'm Sarah.</h1>
-                        <h1 >A full-stack web developer</h1>
+                        <h1 className="text-center">A full-stack web developer</h1>
                     </div>
                 </Col>
                 <Col>
